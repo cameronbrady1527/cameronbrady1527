@@ -18,6 +18,8 @@ Earned my B.S. as an Interdisciplinary Studies major with a focus on computer sc
 - **Tools:** Git, IntelliJ, VS Code, Jupyter Notebook, JUnit, Firecrawl
 - **Concepts:** Machine Learning, Data Structures, Algorithms, OOP, Test-Driven Development
 
+---
+
 ### 📚 Featured Projects
 #### Nonprofit Data Scraper
 Scraper for nonprofit revenue and executive compensation data for a selected state.
@@ -44,6 +46,8 @@ Polymorphic expression tree evaluator supporting RPN parsing, variable substitut
 - **Tech:** Java, Recursive Algorithms, Apache Commons CSV
 - **Highlights:** Expression trees, stack-based recursive parsing, constant folding optimization
 
+---
+
 ### 🌱 Currently Learning
 - Machine learning fundamentals and advanced statistical learning methods
 - Advanced algorithms and computational complexity
@@ -63,6 +67,8 @@ Polymorphic expression tree evaluator supporting RPN parsing, variable substitut
 
 💡 Fun Fact
 When I'm not coding, you can find me substitute teaching K-12; tutoring in math and science; training for a race; learning and reading books on neuroscience, machine learning, meditation, and more; and volunteering.
+
+---
 
 ⭐️ Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities!
 <!--
