@@ -4,7 +4,7 @@
 Currently developing robust data/web scrapers and analytics pipelines in the AI-workflow productivity and nonprofit spaces. Passionate about building efficient, scalable solutions and exploring the intersection of theory and practical applications. Inspired to push the boundaries of machine learning in neural computing and neurological disorder early detection systems.
 
 ### 🎓 Interdisciplinary Computer Science Graduate from Cornell University
-Earned my B.S. as an interdisciplinary studies major with a focus on computer science, applied economics and management, and agricultural studies. Focused on mastering data structures, algorithms, and software engineering, while developing a multi-disciplinary, systems thinking approach to problem solving. Interested in applications that positively impact others, especially via the nonprofit sector and research at the intersection of machine learning and neuroscience.
+Earned my B.S. as an Interdisciplinary Studies major with a focus on computer science, applied economics and management, and agricultural studies. Focused on mastering data structures, algorithms, and software engineering, while developing a multi-disciplinary, systems thinking approach to problem solving. Interested in applications that positively impact others, especially via the nonprofit sector and research at the intersection of machine learning and neuroscience.
 
 ### 🚀 What I'm Working On
 - Architecting data and web scrapers with contemporary technologies
@@ -13,10 +13,10 @@ Earned my B.S. as an interdisciplinary studies major with a focus on computer sc
 - Contributing to open-source projects
 
 ### 💻 Technical Skills
-**Languages:** Python, Java, JavaScript, TypeScript, HTML/CSS
-**Frameworks:** React, Node.js, Next.js, Spring Boot
-**Tools:** Git, IntelliJ, VS Code, Jupyter Notebook, JUnit, Firecrawl
-**Concepts:** Machine Learning, Data Structures, Algorithms, OOP, Test-Driven Development
+- **Languages:** Python, Java, JavaScript, TypeScript, HTML/CSS
+- **Frameworks:** React, Node.js, Next.js, Spring Boot
+- **Tools:** Git, IntelliJ, VS Code, Jupyter Notebook, JUnit, Firecrawl
+- **Concepts:** Machine Learning, Data Structures, Algorithms, OOP, Test-Driven Development
 
 ### 📚 Featured Projects
 #### Nonprofit Data Scraper
