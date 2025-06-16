@@ -61,7 +61,7 @@ Polymorphic expression tree evaluator supporting RPN parsing, variable substitut
 - Nonprofit revenue scraper (improved PDF parsing, robust executive compensation parsing)
 
 ### 📫 How to Reach Me
-- **Email:** [cameronbrady1527@gmail.com]
+- **Email:** [cameronbrady1527@gmail.com] or [cab495@cornell.edu]
 - **LinkedIn:** [https://www.linkedin.com/in/cameron-brady-5770431b5/]
 - **Portfolio:** *coming soon*
 
