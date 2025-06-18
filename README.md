@@ -65,7 +65,7 @@ Polymorphic expression tree evaluator supporting RPN parsing, variable substitut
 - **LinkedIn:** [https://www.linkedin.com/in/cameron-brady-5770431b5/]
 - **Portfolio:** *coming soon*
 
-💡 Fun Fact
+💡 **Fun Fact**:
 When I'm not coding, you can find me substitute teaching K-12; tutoring in math and science; training for a race; learning and reading books on neuroscience, machine learning, meditation, and more; and volunteering.
 
 ---
