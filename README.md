@@ -1,6 +1,6 @@
 ## Hi there! I'm Cameron Brady 👋
 
-### 🧠 Freelance Software Developer | Nonprofit Consultant | Aspiring Machine Learning Researcher
+### 🧠 Software Developer | Nonprofit Consultant | Machine Learning Researcher
 Currently developing robust data/web scrapers and analytics pipelines in the AI-workflow productivity and nonprofit spaces. Passionate about building efficient, scalable solutions and exploring the intersection of theory and practical applications. Inspired to push the boundaries of machine learning in neural computing and neurological disorder early detection systems.
 
 ### 🎓 Interdisciplinary Computer Science Graduate from Cornell University
