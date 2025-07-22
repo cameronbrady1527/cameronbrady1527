@@ -15,8 +15,8 @@ Earned my B.S. as an Interdisciplinary Studies major with a focus on computer sc
 ### 💻 Technical Skills
 - **Languages:** Python, Java, JavaScript, TypeScript, HTML/CSS
 - **Frameworks:** React, Node.js, Next.js, Spring Boot
-- **Tools:** AI, Git, IntelliJ, VS Code, Jupyter Notebook, JUnit, Firecrawl
-- **Concepts:** Machine Learning, Test-Driven Development, MCP, DSA, OOP
+- **Tools:** AI, Git, VS Code, Cursor, Jupyter, JUnit, Firecrawl, Supabase
+- **Concepts:** Machine Learning, Test-Driven Development, Fullstack Development, MCP, Thorough Documentation, DSA, OOP
 
 ---
 
@@ -26,25 +26,30 @@ Scraper for nonprofit revenue and executive compensation data for a selected sta
 - **Tech:** Python, API Interaction, OCR Image-PDF Parsing, Pandas, Excel
 - **Highlights:** Smart data collection algorithms, Scanned 990 IRS form parsing, Beautiful business-ready spreadsheet reporting
 
+#### Parkinson's Disease Detection - ML Pipeline
+Comprehensive machine learning pipeline for Parkinson's disease detection using voice measurements with automated data processing, model training, and evaluation.
+- **Tech:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Jupyter
+- **Highlights:** Modular architecture with data cleaning and feature engineering, comprehensive model evaluation with 94.9% accuracy, feature selection using Random Forest importance, cross-validation with multiple algorithms (Logistic Regression, Random Forest, SVM)
+
+#### Sesha v3 - AL Article Generation Platform
+AI-powered content generation platform that transforms source materials into professional articles through multi-step AI pipelines.
+- **Tech:** Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Supabase, Anthropic Claude 3.5 Sonnet, OpenAI GPT 4o, Tailwind CSS, Lexical, Shadcn
+- **Highlights:** Multi-step AI pipeline, intelligent source attribution and weaving, enterprise multi-tenant architecture with usage analytics, comprehensive export capabilities (PDF/DOCX/email), real-time processing with live status updates, 
+
 #### McDiver - Sewer Navigation System
 Graph algorithms implementation for maze navigation using Dijkstra's shortest path and optimized DFS/BFS traversal strategies.
 - **Tech:** Java, Graph Theory, Concurrent Programming
 - **Highlights:** Pathfinding optimization, thread synchronization, performance tuning
-
-#### Flashcards - Learn Vocabulary
-A flashcard website designed to optimally help a user learn vocab words.
-- **Tech:** JavaScript, HTML/CSS, Excel/CSV, SheetJS, PapaParse
-- **Highlights:** Offline use after initial data import, individual word performance statistics, beautiful and simple interface, export progress to Excel or CSV
 
 #### Astral AI - Documentation Scraper
 A Python toolkit, designed for AI-workflow productivity startup Astral AI, that extracts and organizes web documentation into well-formatted markdown files using the Firecrawl SDK.
 - **Tech:** Python, Firecrawl SDK
 - **Highlights:** Crawler and scraper functionality, well-formatted markdown files for efficient user and machine learning parsing, navigable index generation for extracted documents
 
-#### Formula Evaluation Engine
-Polymorphic expression tree evaluator supporting RPN parsing, variable substitution, and spreadsheet formula evaluation.
-- **Tech:** Java, Recursive Algorithms, Apache Commons CSV
-- **Highlights:** Expression trees, stack-based recursive parsing, constant folding optimization
+#### Flashcards - Learn Vocabulary
+A flashcard website designed to optimally help a user learn vocab words.
+- **Tech:** JavaScript, HTML/CSS, Excel/CSV, SheetJS, PapaParse
+- **Highlights:** Offline use after initial data import, individual word performance statistics, beautiful and simple interface, export progress to Excel or CSV
 
 ---
 
