@@ -1,22 +1,22 @@
 ## Hi there! I'm Cameron Brady 👋
 
-### 🧠 Software Developer | Nonprofit Consultant | Machine Learning Researcher
-Currently developing robust data/web scrapers and analytics pipelines in the AI-workflow productivity and nonprofit spaces. Passionate about building efficient, scalable solutions and exploring the intersection of theory and practical applications. Inspired to push the boundaries of machine learning in neural computing and neurological disorder early detection systems.
+### 🧠 Fullstack Software Developer | Machine Learning Researcher | Nonprofit Consultant
+Currently developing AI tools and apps, data/web scrapers, and analytics pipelines in the AI-workflow productivity and nonprofit spaces, with a heavy dash of machine learning. Passionate about building efficient, scalable solutions and exploring the intersection of theory and practical applications. Inspired to push the boundaries of machine learning in neural computing and neurological disorder early detection systems.
 
 ### 🎓 Interdisciplinary Computer Science Graduate from Cornell University
-Earned my B.S. as an Interdisciplinary Studies major with a focus on computer science, applied economics and management, and agricultural studies. Focused on mastering data structures, algorithms, and software engineering, while developing a multi-disciplinary, systems thinking approach to problem solving. Interested in applications that positively impact others, especially via the nonprofit sector and research at the intersection of machine learning and neuroscience.
+Earned my B.S. as an Interdisciplinary Studies major with a focus on computer science, applied economics and management, and agricultural studies. Developed a multi-disciplinary systems thinking approach to complex real-world problems. Interested in technology, organizations, and systems that improve lives.
 
 ### 🚀 What I'm Working On
-- Architecting data and web scrapers with contemporary technologies
-- Building robust implementations of fundamental CS algorithms
 - Developing full-stack applications with modern frameworks
+- Architecting data and web scrapers with contemporary technologies
+- Building robust implementations of machine learning algorithms
 - Contributing to open-source projects
 
 ### 💻 Technical Skills
 - **Languages:** Python, Java, JavaScript, TypeScript, HTML/CSS
 - **Frameworks:** React, Node.js, Next.js, Spring Boot
-- **Tools:** Git, IntelliJ, VS Code, Jupyter Notebook, JUnit, Firecrawl
-- **Concepts:** Machine Learning, Data Structures, Algorithms, OOP, Test-Driven Development
+- **Tools:** AI, Git, IntelliJ, VS Code, Jupyter Notebook, JUnit, Firecrawl
+- **Concepts:** Machine Learning, Test-Driven Development, MCP, DSA, OOP
 
 ---
 
@@ -49,16 +49,17 @@ Polymorphic expression tree evaluator supporting RPN parsing, variable substitut
 ---
 
 ### 🌱 Currently Learning
-- Machine learning fundamentals and advanced statistical learning methods
-- Advanced algorithms and computational complexity
+- Advanced machine learning and statistical learning methods
+- Fullstack development
 - System design patterns
-- Next.js, TypeScript, and React app development
+- Development experience optimization technology
 
-### 📝 Currently Developing (Personal Projects)
+### 📝 Currently Developing
+- Astral AI (client full-stack AI web apps and foundational AI-development platform code)
 - Portfolio website (neural computing inspiration styling)
-- Machine learning and neuroscience blog (styling, more content)
+- Machine learning and neuroscience blog (styling, database/CMS, more content)
 - Parkinson's detection machine learning project (EDA, model implementations)
-- Nonprofit revenue scraper (improved PDF parsing, robust executive compensation parsing)
+- Nonprofit revenue scraper (improved PDF parsing, robust executive compensation parsing, dashboard)
 
 ### 📫 How to Reach Me
 - **Email:** [cameronbrady1527@gmail.com] or [cab495@cornell.edu]
