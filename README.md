@@ -55,7 +55,8 @@ Polymorphic expression tree evaluator supporting RPN parsing, variable substitut
 - Development experience optimization technology
 
 ### 📝 Currently Developing
-- Astral AI (client full-stack AI web apps and foundational AI-development platform code)
+- Astral AI (client full-stack AI web apps, foundational platform code)
+- Replicating an MCP Integration service for AI applications
 - Portfolio website (neural computing inspiration styling)
 - Machine learning and neuroscience blog (styling, database/CMS, more content)
 - Parkinson's detection machine learning project (EDA, model implementations)
@@ -72,17 +73,3 @@ When I'm not coding, you can find me substitute teaching K-12; tutoring in math 
 ---
 
 ⭐️ Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities!
-<!--
-**cameronbrady1527/cameronbrady1527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
