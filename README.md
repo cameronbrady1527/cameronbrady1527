@@ -44,7 +44,7 @@ Graph algorithms implementation for maze navigation using Dijkstra's shortest pa
 #### Astral AI - Documentation Scraper
 A Python toolkit, designed for AI-workflow productivity startup Astral AI, that extracts and organizes web documentation into well-formatted markdown files using the Firecrawl SDK.
 - **Tech:** Python, Firecrawl SDK
-- **Highlights:** Crawler and scraper functionality, well-formatted markdown files for efficient user and machine learning parsing, navigable index generation for extracted documents
+- **Highlights:** Crawler and scraper functionality, well-formatted markdown files for efficient user and machine learning/LLM parsing, navigable index generation for extracted documents
 
 #### Flashcards - Learn Vocabulary
 A flashcard website designed to optimally help a user learn vocab words... and to help me study for the GRE :)
