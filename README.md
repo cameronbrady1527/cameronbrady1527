@@ -47,7 +47,7 @@ A Python toolkit, designed for AI-workflow productivity startup Astral AI, that 
 - **Highlights:** Crawler and scraper functionality, well-formatted markdown files for efficient user and machine learning parsing, navigable index generation for extracted documents
 
 #### Flashcards - Learn Vocabulary
-A flashcard website designed to optimally help a user learn vocab words.
+A flashcard website designed to optimally help a user learn vocab words... and to help me study for the GRE :)
 - **Tech:** JavaScript, HTML/CSS, Excel/CSV, SheetJS, PapaParse
 - **Highlights:** Offline use after initial data import, individual word performance statistics, beautiful and simple interface, export progress to Excel or CSV
 
