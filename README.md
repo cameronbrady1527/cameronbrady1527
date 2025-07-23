@@ -28,7 +28,7 @@ Scraper for nonprofit revenue and executive compensation data for a selected sta
 
 #### Parkinson's Disease Detection - ML Pipeline
 Advanced machine learning framework for Parkinson's disease identification utilizing vocal biomarkers with streamlined data processing, automated model development, and comprehensive performance assessment.
-- **Tech:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Jupyter
+- **Tech:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Jupyter, FastAPI, Railway
 - **Highlights:** Scalable architecture with data refinement and feature optimization, thorough model assessment achieving 94.9% precision, intelligent feature selection leveraging Random Forest importance metrics, robust validation framework incorporating multiple algorithms (Logistic Regression, Random Forest, SVM)
 
 #### Sesha v3 - AL Article Generation Platform
