@@ -64,7 +64,7 @@ A flashcard website designed to optimally help a user learn vocab words.
 - Replicating an MCP Integration service for AI applications
 - Portfolio website (neural computing inspiration styling)
 - Machine learning and neuroscience blog (styling, database/CMS, more content)
-- Parkinson's detection machine learning project (EDA, model implementations)
+- Parkinson's detection machine learning project (model improvements, frontend interactivity, data visualization)
 - Nonprofit revenue scraper (improved PDF parsing, robust executive compensation parsing, dashboard)
 
 ### 📫 How to Reach Me
