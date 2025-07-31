@@ -21,6 +21,11 @@ Earned my B.S. as an Interdisciplinary Studies major with a focus on computer sc
 ---
 
 ### 📚 Featured Projects
+#### Sesha v3 - AI Article Generation Platform
+AI-powered content generation platform that transforms source materials into professional articles through multi-step AI pipelines.
+- **Tech:** Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Supabase, Anthropic Claude 3.5 Sonnet, OpenAI GPT 4o, Tailwind CSS, Lexical, Shadcn
+- **Highlights:** Multi-step AI pipeline, intelligent source attribution and weaving, enterprise multi-tenant architecture with usage analytics, comprehensive export capabilities (PDF/DOCX/email), real-time processing with live status updates
+- 
 #### Nonprofit Data Scraper
 Scraper for nonprofit revenue and executive compensation data for a selected state.
 - **Tech:** Python, API Interaction, OCR Image-PDF Parsing, Pandas, Excel
@@ -30,11 +35,6 @@ Scraper for nonprofit revenue and executive compensation data for a selected sta
 Advanced machine learning framework for Parkinson's disease identification utilizing vocal biomarkers with streamlined data processing, automated model development, and comprehensive performance assessment.
 - **Tech:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Jupyter, FastAPI, Railway
 - **Highlights:** Scalable architecture with data refinement and feature optimization, thorough model assessment achieving 94.9% precision, intelligent feature selection leveraging Random Forest importance metrics, robust validation framework incorporating multiple algorithms (Logistic Regression, Random Forest, SVM)
-
-#### Sesha v3 - AI Article Generation Platform
-AI-powered content generation platform that transforms source materials into professional articles through multi-step AI pipelines.
-- **Tech:** Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Supabase, Anthropic Claude 3.5 Sonnet, OpenAI GPT 4o, Tailwind CSS, Lexical, Shadcn
-- **Highlights:** Multi-step AI pipeline, intelligent source attribution and weaving, enterprise multi-tenant architecture with usage analytics, comprehensive export capabilities (PDF/DOCX/email), real-time processing with live status updates, 
 
 #### McDiver - Sewer Navigation System
 Graph algorithms implementation for maze navigation using Dijkstra's shortest path and optimized DFS/BFS traversal strategies.
