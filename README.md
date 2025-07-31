@@ -25,7 +25,7 @@ Earned my B.S. as an Interdisciplinary Studies major with a focus on computer sc
 AI-powered content generation platform that transforms source materials into professional articles through multi-step AI pipelines.
 - **Tech:** Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Supabase, Anthropic Claude 3.5 Sonnet, OpenAI GPT 4o, Tailwind CSS, Lexical, Shadcn
 - **Highlights:** Multi-step AI pipeline, intelligent source attribution and weaving, enterprise multi-tenant architecture with usage analytics, comprehensive export capabilities (PDF/DOCX/email), real-time processing with live status updates
-- 
+
 #### Nonprofit Data Scraper
 Scraper for nonprofit revenue and executive compensation data for a selected state.
 - **Tech:** Python, API Interaction, OCR Image-PDF Parsing, Pandas, Excel
