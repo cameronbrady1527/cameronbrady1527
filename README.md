@@ -13,7 +13,7 @@ Earned my B.S. as an Interdisciplinary Studies major with a focus on computer sc
 - Contributing to open-source projects
 
 ### 💻 Technical Skills
-- **Languages:** Python, Java, JavaScript, TypeScript, HTML/CSS
+- **Languages:** Python, Java, JavaScript, TypeScript, HTML/CSS, SQL
 - **Frameworks:** React, Node.js, Next.js, Spring Boot
 - **Tools:** AI, Git, VS Code, Cursor, Jupyter, JUnit, Firecrawl, Supabase
 - **Concepts:** Machine Learning, Test-Driven Development, Fullstack Development, MCP, Thorough Documentation, DSA, OOP
