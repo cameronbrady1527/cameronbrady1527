@@ -16,7 +16,7 @@ Earned my B.S. as an Interdisciplinary Studies major with a focus on computer sc
 ### 💻 Technical Skills
 - **Languages:** Python, Java, JavaScript, TypeScript, HTML/CSS, SQL
 - **Frameworks:** React, Node.js, Next.js, FastAPI, Spring Boot
-- **Tools:** AI, Git, VS Code, Jupyter, JUnit, Firecrawl, Supabase, Claude Code
+- **Tools:** AI, Git, VS Code, Jupyter, JUnit, Firecrawl, Supabase, Claude Code, Railway, Vercel, Docker
 - **Concepts:** Machine Learning, Test-Driven Development, Fullstack Development, MCP, Thorough Documentation
 
 ---
@@ -33,9 +33,9 @@ Comprehensive web content discovery and monitoring system that automatically dis
 - **Highlights:** Multi-source URL discovery (sitemaps, AI analysis, intelligent crawling), AI-powered content hub identification, advanced deduplication and URL resolution engine, comprehensive change monitoring, RESTful API with pagination support, flexible per-site configuration, historical tracking and export capabilities
 
 #### Nonprofit Data Scraper
-Scraper for nonprofit revenue and executive compensation data for a selected state.
-- **Tech:** Python, API Interaction, OCR Image-PDF Parsing, Pandas, Excel
-- **Highlights:** Smart data collection algorithms, Scanned 990 IRS form parsing, Beautiful business-ready spreadsheet reporting
+Industry-competitive nonprofit data scraper and PDF parser, collecting revenue and executive compensation data from most up-to-date IRS 990 tax filings 
+- **Tech:** Python, ProPrublica API, OCR Image-PDF Parsing, Pandas, Excel
+- **Highlights:** Smart data collection algorithms, scanned 990 IRS form parsing, business-ready spreadsheet reporting, valuable and free comparability data for compensation decisions (top competitor, Candid/GuideStar provides only summary of what we have for over $400), configurable by state and revenue range (e.g. $250K - 1M)
 
 #### Parkinson's Disease Detection - ML Pipeline
 Advanced machine learning framework for Parkinson's disease identification utilizing vocal biomarkers with streamlined data processing, automated model development, and comprehensive performance assessment.
@@ -60,12 +60,6 @@ A flashcard website designed to optimally help a user learn vocab words... and t
 
 ---
 
-### 🌱 Currently Learning
-- Advanced machine learning and statistical learning methods
-- Fullstack development
-- System design patterns
-- Development experience optimization technology
-
 ### 📝 Currently Developing
 - Astral AI (client full-stack AI web apps, foundational platform code)
 - MCP research assistant platform (minimum viable project, multi-database literature search)
@@ -73,6 +67,13 @@ A flashcard website designed to optimally help a user learn vocab words... and t
 - Machine learning and neuroscience blog (styling, database/CMS, more content)
 - Parkinson's detection machine learning project (model improvements, frontend interactivity, data visualization)
 - Nonprofit revenue scraper (improved PDF parsing, robust executive compensation parsing, dashboard)
+
+### 🌱 Currently Learning
+- Advanced machine learning and statistical learning methods
+- Fullstack development
+- System design patterns
+- AI-workflow technology development
+- Neural computing foundations
 
 ### 📫 How to Reach Me
 - **Email:** [cab495@cornell.edu](cab495@cornell.edu) or [cameronbrady1527@gmail.com](cameronbrady1527@gmail.com)
