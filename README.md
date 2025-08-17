@@ -27,7 +27,7 @@ AI-powered content generation platform that transforms source materials into pro
 - **Tech:** Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Supabase, Anthropic Claude 3.5 Sonnet, OpenAI GPT 4o, Tailwind CSS, Lexical, Shadcn
 - **Highlights:** Multi-step AI pipeline, intelligent source attribution and weaving, enterprise multi-tenant architecture with usage analytics, comprehensive export capabilities (PDF/DOCX/email), real-time processing with live status updates
 
-### URL Aggregator - AI-Powered Web Content Discovery System
+#### URL Aggregator - AI-Powered Web Content Discovery System
 Comprehensive web content discovery and monitoring system that automatically discovers, processes, and tracks URLs from various websites using multiple detection methods including sitemap parsing, Firecrawl's `/map` and `/crawl` methods, BeautifulSoup paginated scraping, and AI-powered analysis (LLM as judge).
 - **Tech:** Python, FastAPI, OpenAI GPT-5, Firecrawl SDK, BeautifulSoup, Pydantic, aiohttp, PyYAML
 - **Highlights:** Multi-source URL discovery (sitemaps, AI analysis, intelligent crawling), AI-powered content hub identification, advanced deduplication and URL resolution engine, comprehensive change monitoring, RESTful API with pagination support, flexible per-site configuration, historical tracking and export capabilities
