@@ -1,8 +1,8 @@
 ## Hi there! I'm Cameron Brady 👋
 
 ### 🧠 Fullstack Software Developer | Machine Learning Researcher | Nonprofit Consultant
-Currently developing AI tools and apps, data/web scrapers, and analytics pipelines in the AI-workflow productivity and nonprofit spaces, with a heavy dash of machine learning. Passionate about building efficient, scalable solutions and exploring the intersection of theory and practical applications. Inspired to push the boundaries of machine learning in neural computing and neurological disorder early detection systems.
-
+Currently developing AI tools and apps, data/web scrapers, and analytics pipelines in the AI-workflow productivity and nonprofit spaces, with a heavy dash of machine learning and neuroscience. Passionate about building practical, scalable solutions and exploring the intersection of theory and practical applications. Inspired to push the boundaries of machine learning in neural computing and neurological disorder early detection systems.
+<!--
 ### 🎓 Interdisciplinary Computer Science Graduate from Cornell University
 Earned my B.S. as an Interdisciplinary Studies major with a focus on computer science, applied economics and management, and agricultural studies. Developed a multi-disciplinary systems thinking approach to complex real-world problems. Interested in technology, organizations, and systems that improve lives.
 
@@ -11,12 +11,13 @@ Earned my B.S. as an Interdisciplinary Studies major with a focus on computer sc
 - Architecting data and web scrapers with contemporary technologies
 - Building robust implementations of machine learning algorithms
 - Contributing to open-source projects
+-->
 
 ### 💻 Technical Skills
 - **Languages:** Python, Java, JavaScript, TypeScript, HTML/CSS, SQL
-- **Frameworks:** React, Node.js, Next.js, Spring Boot
-- **Tools:** AI, Git, VS Code, Cursor, Jupyter, JUnit, Firecrawl, Supabase
-- **Concepts:** Machine Learning, Test-Driven Development, Fullstack Development, MCP, Thorough Documentation, DSA, OOP
+- **Frameworks:** React, Node.js, Next.js, FastAPI, Spring Boot
+- **Tools:** AI, Git, VS Code, Jupyter, JUnit, Firecrawl, Supabase, Claude Code
+- **Concepts:** Machine Learning, Test-Driven Development, Fullstack Development, MCP, Thorough Documentation
 
 ---
 
@@ -25,6 +26,11 @@ Earned my B.S. as an Interdisciplinary Studies major with a focus on computer sc
 AI-powered content generation platform that transforms source materials into professional articles through multi-step AI pipelines.
 - **Tech:** Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Supabase, Anthropic Claude 3.5 Sonnet, OpenAI GPT 4o, Tailwind CSS, Lexical, Shadcn
 - **Highlights:** Multi-step AI pipeline, intelligent source attribution and weaving, enterprise multi-tenant architecture with usage analytics, comprehensive export capabilities (PDF/DOCX/email), real-time processing with live status updates
+
+### URL Aggregator - AI-Powered Web Content Discovery System
+Comprehensive web content discovery and monitoring system that automatically discovers, processes, and tracks URLs from various websites using multiple detection methods including sitemap parsing, Firecrawl's `/map` and `/crawl` methods, BeautifulSoup paginated scraping, and AI-powered analysis (LLM as judge).
+- **Tech:** Python, FastAPI, OpenAI GPT-5, Firecrawl SDK, BeautifulSoup, Pydantic, aiohttp, PyYAML
+- **Highlights:** Multi-source URL discovery (sitemaps, AI analysis, intelligent crawling), AI-powered content hub identification, advanced deduplication and URL resolution engine, comprehensive change monitoring, RESTful API with pagination support, flexible per-site configuration, historical tracking and export capabilities
 
 #### Nonprofit Data Scraper
 Scraper for nonprofit revenue and executive compensation data for a selected state.
@@ -36,11 +42,12 @@ Advanced machine learning framework for Parkinson's disease identification utili
 - **Tech:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Jupyter, FastAPI, Railway
 - **Highlights:** Scalable architecture with data refinement and feature optimization, thorough model assessment achieving 94.9% precision, intelligent feature selection leveraging Random Forest importance metrics, robust validation framework incorporating multiple algorithms (Logistic Regression, Random Forest, SVM)
 
-#### McDiver - Sewer Navigation System
+<!--
+ #### McDiver - Sewer Navigation System
 Graph algorithms implementation for maze navigation using Dijkstra's shortest path and optimized DFS/BFS traversal strategies.
 - **Tech:** Java, Graph Theory, Concurrent Programming
 - **Highlights:** Pathfinding optimization, thread synchronization, performance tuning
-
+-->
 #### Astral AI - Documentation Scraper
 A Python toolkit, designed for AI-workflow productivity startup Astral AI, that extracts and organizes web documentation into well-formatted markdown files using the Firecrawl SDK.
 - **Tech:** Python, Firecrawl SDK
@@ -61,16 +68,16 @@ A flashcard website designed to optimally help a user learn vocab words... and t
 
 ### 📝 Currently Developing
 - Astral AI (client full-stack AI web apps, foundational platform code)
-- Replicating an MCP Integration service for AI applications
-- Portfolio website (neural computing inspiration styling)
+- MCP research assistant platform (minimum viable project, multi-database literature search)
+- Portfolio website (updating content, performance optimizations)
 - Machine learning and neuroscience blog (styling, database/CMS, more content)
 - Parkinson's detection machine learning project (model improvements, frontend interactivity, data visualization)
 - Nonprofit revenue scraper (improved PDF parsing, robust executive compensation parsing, dashboard)
 
 ### 📫 How to Reach Me
-- **Email:** [cameronbrady1527@gmail.com] or [cab495@cornell.edu]
-- **LinkedIn:** [https://www.linkedin.com/in/cameron-brady-5770431b5/]
-- **Portfolio:** *coming soon*
+- **Email:** [cab495@cornell.edu](cab495@cornell.edu) or [cameronbrady1527@gmail.com](cameronbrady1527@gmail.com)
+- **LinkedIn:** [cameron-brady](https://www.linkedin.com/in/cameron-brady-5770431b5/)
+- **Portfolio:** [visit me for more information!](portfolio-epiwy2t0q-cameron-bradys-projects.vercel.app)
 
 💡 **Fun Fact**:
 When I'm not coding, you can find me substitute teaching K-12; tutoring in math and science; training for a race; learning and reading books on neuroscience, machine learning, meditation, and more; and volunteering.
