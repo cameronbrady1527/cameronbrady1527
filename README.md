@@ -78,7 +78,7 @@ A flashcard website designed to optimally help a user learn vocab words... and t
 ### 📫 How to Reach Me
 - **Email:** [cab495@cornell.edu](cab495@cornell.edu) or [cameronbrady1527@gmail.com](cameronbrady1527@gmail.com)
 - **LinkedIn:** [cameron-brady](https://www.linkedin.com/in/cameron-brady-5770431b5/)
-- **Portfolio:** [visit me for more information!](portfolio-epiwy2t0q-cameron-bradys-projects.vercel.app)
+- **Portfolio:** [visit me for more information!](https://cameronbrady.dev)
 
 💡 **Fun Fact**:
 When I'm not coding, you can find me substitute teaching K-12; tutoring in math and science; training for a race; learning and reading books on neuroscience, machine learning, meditation, and more; and volunteering.
