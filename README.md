@@ -2,16 +2,6 @@
 
 ### 🧠 Fullstack Software Developer | Machine Learning Researcher | Nonprofit Consultant
 Currently developing AI tools and apps, data/web scrapers, and analytics pipelines in the AI-workflow productivity and nonprofit spaces, with a heavy dash of machine learning and neuroscience. Passionate about building practical, scalable solutions and exploring the intersection of theory and practical applications. Inspired to push the boundaries of machine learning in neural computing and neurological disorder early detection systems.
-<!--
-### 🎓 Interdisciplinary Computer Science Graduate from Cornell University
-Earned my B.S. as an Interdisciplinary Studies major with a focus on computer science, applied economics and management, and agricultural studies. Developed a multi-disciplinary systems thinking approach to complex real-world problems. Interested in technology, organizations, and systems that improve lives.
-
-### 🚀 What I'm Working On
-- Developing full-stack applications with modern frameworks
-- Architecting data and web scrapers with contemporary technologies
-- Building robust implementations of machine learning algorithms
-- Contributing to open-source projects
--->
 
 ### 💻 Technical Skills
 - **Languages:** Python, Java, JavaScript, TypeScript, HTML/CSS, SQL
@@ -33,21 +23,15 @@ Comprehensive web content discovery and monitoring system that automatically dis
 - **Highlights:** Multi-source URL discovery (sitemaps, AI analysis, intelligent crawling), AI-powered content hub identification, advanced deduplication and URL resolution engine, comprehensive change monitoring, RESTful API with pagination support, flexible per-site configuration, historical tracking and export capabilities
 
 #### Nonprofit Data Scraper
-Industry-competitive nonprofit data scraper and PDF parser, collecting revenue and executive compensation data from most up-to-date IRS 990 tax filings 
+Industry-competitive nonprofit data scraper and AI- or OCR-based PDF parser, collecting revenue and executive compensation data from most up-to-date IRS 990 tax filings 
 - **Tech:** Python, ProPrublica API, OCR Image-PDF Parsing, Pandas, Excel
-- **Highlights:** Smart data collection algorithms, scanned 990 IRS form parsing, business-ready spreadsheet reporting, valuable and free comparability data for compensation decisions (top competitor, Candid/GuideStar provides only summary of what we have for over $400), configurable by state and revenue range (e.g. $250K - 1M)
+- **Highlights:** Smart data collection algorithms, scanned 990 IRS form parsing, business-ready spreadsheet reporting, valuable and free comparability data for compensation decisions (top competitor, Candid/GuideStar provides only summary of what we have for over $400), configurable by state and revenue range (e.g. CT, $250K - 1M)
 
 #### Parkinson's Disease Detection - ML Pipeline
 Advanced machine learning framework for Parkinson's disease identification utilizing vocal biomarkers with streamlined data processing, automated model development, and comprehensive performance assessment.
 - **Tech:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Jupyter, FastAPI, Railway
 - **Highlights:** Scalable architecture with data refinement and feature optimization, thorough model assessment achieving 94.9% precision, intelligent feature selection leveraging Random Forest importance metrics, robust validation framework incorporating multiple algorithms (Logistic Regression, Random Forest, SVM)
 
-<!--
- #### McDiver - Sewer Navigation System
-Graph algorithms implementation for maze navigation using Dijkstra's shortest path and optimized DFS/BFS traversal strategies.
-- **Tech:** Java, Graph Theory, Concurrent Programming
-- **Highlights:** Pathfinding optimization, thread synchronization, performance tuning
--->
 #### Astral AI - Documentation Scraper
 A Python toolkit, designed for AI-workflow productivity startup Astral AI, that extracts and organizes web documentation into well-formatted markdown files using the Firecrawl SDK.
 - **Tech:** Python, Firecrawl SDK
@@ -63,10 +47,10 @@ A flashcard website designed to optimally help a user learn vocab words... and t
 ### 📝 Currently Developing
 - Astral AI (client full-stack AI web apps, foundational platform code)
 - MCP research assistant platform (minimum viable project, multi-database literature search)
-- Portfolio website (updating content, performance optimizations)
+- Portfolio website (updating content and styling)
 - Machine learning and neuroscience blog (styling, database/CMS, more content)
 - Parkinson's detection machine learning project (model improvements, frontend interactivity, data visualization)
-- Nonprofit revenue scraper (improved PDF parsing, robust executive compensation parsing, dashboard)
+- Nonprofit revenue scraper (robust executive compensation parsing, dashboard)
 
 ### 🌱 Currently Learning
 - Advanced machine learning and statistical learning methods
