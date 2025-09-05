@@ -49,7 +49,7 @@ A flashcard website designed to optimally help a user learn vocab words... and t
 - MCP research assistant platform (minimum viable project, multi-database literature search)
 - Portfolio website (updating content and styling)
 - Machine learning and neuroscience blog (styling, database/CMS, more content)
-- Parkinson's detection machine learning project (model improvements, frontend interactivity, data visualization)
+- Parkinson's detection machine learning project (model optimizations, cross-fold validation, data visualization)
 - Nonprofit revenue scraper (robust executive compensation parsing, dashboard)
 
 ### 🌱 Currently Learning
